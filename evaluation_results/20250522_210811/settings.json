@@ -1,0 +1,8 @@
+{
+  "data_path": "../data/us_macro_data.xlsx",
+  "model_path": "../models/trained_actor.pth",
+  "num_lags": 4,
+  "state_dim": 12,
+  "compare_taylor": false,
+  "run_all": false
+}

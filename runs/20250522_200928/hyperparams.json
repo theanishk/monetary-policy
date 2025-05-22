@@ -1,0 +1,39 @@
+{
+  "num_lags": 4,
+  "actor_hidden_dims": [
+    256,
+    128,
+    64
+  ],
+  "critic_hidden_dims": [
+    256,
+    128,
+    64
+  ],
+  "use_twin_critics": true,
+  "use_prioritized_replay": true,
+  "dropout_rate": 0.1,
+  "episodes": 2000,
+  "batch_size": 128,
+  "replay_buffer_size": 200000,
+  "min_steps": 30,
+  "max_steps": 100,
+  "tau": 0.001,
+  "initial_noise": 0.3,
+  "final_noise": 0.05,
+  "noise_decay": 0.999,
+  "actor_lr": 0.0001,
+  "critic_lr": 0.0003,
+  "weight_decay": 0.0001,
+  "grad_clip": 0.5,
+  "lr_decay": 0.9999,
+  "pi_target": 2.0,
+  "lambda_pi": 1.5,
+  "lambda_y": 0.5,
+  "smoothness_penalty": 0.2,
+  "eval_frequency": 50,
+  "eval_episodes": 10,
+  "use_curriculum": true,
+  "random_steps": 5000,
+  "update_freq": 3
+}

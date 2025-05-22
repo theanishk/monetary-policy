@@ -1,0 +1,9 @@
+{
+  "ddpg_inflation_mse": 3.4455065727233887,
+  "ddpg_gdp_gap_mse": 0.06957651674747467,
+  "ddpg_reward": -181.4652099609375,
+  "taylor_inflation_mse": 3.4721972942352295,
+  "taylor_gdp_gap_mse": 0.10466184467077255,
+  "taylor_reward": -182.71717392937836,
+  "improvement_pct": 0.6851922791476381
+}
