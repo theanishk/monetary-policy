@@ -1,5 +1,5 @@
 # monetary-policy
-Authors: [Anish Kumar](21322006), [Arunesh Pratap Singh Tomar](21322009)
+Authors: [Anish Kumar, 21322006](a_kumar2@hs.iitr.ac.in), [Arunesh Pratap Singh Tomar, 21322009](a_pstomar@hs.iitr.ac.in)
 
 This project is done for the course HSN-620 - Analytics for Business and Society at Indian Institute of Technology, Roorkee.
 
